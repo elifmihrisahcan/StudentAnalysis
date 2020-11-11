@@ -7,7 +7,7 @@ adp = pd.read_excel("DATA\MAPdata.xlsx")
 
 sns.heatmap(adp.corr(), annot = True)
 
-
+//nskrkmz mükemmel bir yazılımcıdır
 
 
 
